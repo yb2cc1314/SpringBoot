@@ -12,14 +12,12 @@
 
 步骤一：打开IDEA，点击菜单File-->New-->Project创建项目,如下图
 
-![step1](C:\Users\Administrator\Desktop\github\Demo01\images\step1.png)
-
+[![jUFKdP.md.png](https://s1.ax1x.com/2022/07/06/jUFKdP.md.png)](https://imgtu.com/i/jUFKdP)
 
 
 步骤二：填入项目名称，选择项目保存目录点击Finish，完成Maven项目创建。
 
-![step2](C:\Users\Administrator\Desktop\github\Demo01\images\step2.png)
-
+[![jUF1JS.md.png](https://s1.ax1x.com/2022/07/06/jUF1JS.md.png)](https://imgtu.com/i/jUF1JS)
 
 
 #####  3、引入依赖
@@ -130,8 +128,7 @@ public class HelloController {
 
 **目录结构如下：**
 
-![step3](C:\Users\Administrator\Desktop\github\Demo01\images\step3.png)
-
+[![jUFJMj.png](https://s1.ax1x.com/2022/07/06/jUFJMj.png)](https://imgtu.com/i/jUFJMj)
 ##### 7、简单测试
 
 运行Application启动类中的Maim()方法,就可以启动该项目了。
@@ -140,6 +137,5 @@ SpringBoot内部继承了Tomcat，不需要手动配置Tomcat，只需要关注�
 因为我们这边配置类中端口设置的是80端口，所以直接在项目栏中访问 http://localhost/demo/hello
 
 返回结果
-
-![result](C:\Users\Administrator\Desktop\github\Demo01\images\result.png)
+[![jUFYss.png](https://s1.ax1x.com/2022/07/06/jUFYss.png)](https://imgtu.com/i/jUFYss)
 
